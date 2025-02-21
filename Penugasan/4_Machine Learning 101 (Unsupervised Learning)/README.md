@@ -7,7 +7,7 @@
 - 🛠️ Sumber Data Didapatkan melalui crawling profil jejaring sosial, kemudian diproses menggunakan teknik text mining untuk mengekstrak informasi minat siswa. Dataset mencakup jumlah kemunculan 37 kata dominan dalam profil, seperti football dan shopping, yang menunjukkan prevalensi topik tertentu di kalangan siswa.  
 - 👤 Informasi Demografis Selain data minat, dataset juga mencakup informasi demografis penting seperti tahun kelulusan (gradyear), gender, usia saat survei, dan jumlah kontakteman di jejaring sosial (NumberOfFriends).  
 - 🔍 Manfaat Analisis Dataset ini cocok untuk analisis clustering guna mengidentifikasi kelompok siswa dengan minat serupa, profil demografis, dan analisis tren sepanjang waktu.  
-- 🔗 Link [httpswww.kaggle.comdatasetszabihullah18students-social-network-profile-clustering](#)
+- 🔗 Link [https://www.kaggle.comdatasetszabihullah18students-social-network-profile-clustering](#)
 
 ---
 
