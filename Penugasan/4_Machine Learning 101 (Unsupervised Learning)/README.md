@@ -8,7 +8,7 @@ Kumpulan dataset yang berguna untuk eksplorasi clustering dan analisis data di b
 📌 **Deskripsi:**  
 Dataset ini berisi sampel acak dari **15.000 siswa SMA** yang memiliki profil di sebuah platform media sosial populer pada **2006-2009**. Data dikumpulkan secara merata selama periode tersebut, memberikan wawasan tentang aktivitas online dan minat remaja pada saat itu.  
 
-🔗 **Link:** [Students' Social Network Profile Clustering](https://www.kaggle.com/datasets/zabihullah18/students-social-network-profile-clustering)  
+🔗 **Link dataset:** [Students' Social Network Profile Clustering](https://www.kaggle.com/datasets/zabihullah18/students-social-network-profile-clustering)  
 
 ### 🔍 Fitur yang tersedia:
 - **📅 Graduation year (gradyear)**
@@ -28,7 +28,7 @@ Dataset ini berisi sampel acak dari **15.000 siswa SMA** yang memiliki profil di
 📌 **Deskripsi:**  
 Memahami ekspresi gen adalah kunci dalam meneliti **fungsi seluler**. Algoritma _data mining_ pada data ekspresi gen umumnya digunakan untuk **clustering**. Analisis ini membantu dalam menemukan **gen yang belum diketahui fungsinya** serta mengidentifikasi hubungan fungsional antar gen.  
 
-🔗 **Link:** [Gene Expression - Bioinformatics Dataset](https://www.kaggle.com/datasets/samira1992/gene-expression-bioinformatics-dataset)  
+🔗 **Link dataset:** [Gene Expression - Bioinformatics Dataset](https://www.kaggle.com/datasets/samira1992/gene-expression-bioinformatics-dataset)  
 
 💡 **Potensi Analisis:**  
 ✅ Identifikasi gen yang diekspresikan bersamaan  
@@ -41,7 +41,7 @@ Memahami ekspresi gen adalah kunci dalam meneliti **fungsi seluler**. Algoritma 
 📌 **Deskripsi:**  
 Dataset ini merupakan kumpulan data sintetis namun realistis yang mencerminkan **metrik operasional** dan atribut berbagai jenis kapal di **Teluk Guinea**. Dataset ini cocok untuk **maritime analytics**, _machine learning_, serta eksplorasi masalah clustering dan optimasi dalam industri maritim.  
 
-🔗 **Link:** [Ship Performance Clustering Dataset](https://www.kaggle.com/datasets/jeleeladekunlefijabi/ship-performance-clustering-dataset)  
+🔗 **Link dataset:** [Ship Performance Clustering Dataset](https://www.kaggle.com/datasets/jeleeladekunlefijabi/ship-performance-clustering-dataset)  
 
 💡 **Potensi Analisis:**  
 ✅ Clustering kapal berdasarkan performa dan atribut operasional  
@@ -54,7 +54,7 @@ Dataset ini merupakan kumpulan data sintetis namun realistis yang mencerminkan *
 📌 **Deskripsi:**  
 Dataset ini diadaptasi dari **Wine Data Set** UCI dengan menghapus informasi jenis anggur agar cocok untuk **unsupervised learning**.  
 
-🔗 **Link:** [Wine Dataset for Clustering](https://www.kaggle.com/datasets/harrywang/wine-dataset-for-clustering)  
+🔗 **Link dataset:** [Wine Dataset for Clustering](https://www.kaggle.com/datasets/harrywang/wine-dataset-for-clustering)  
 
 ### 🔬 Fitur yang tersedia:
 - Hasil analisis kimia dari anggur di **Italia**, berasal dari **3 jenis kultivar**  
